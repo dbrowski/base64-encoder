@@ -1,2 +1,3 @@
 # base64-encoder
- encode strings in base64
+
+base64 encoder
